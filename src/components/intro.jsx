@@ -55,7 +55,7 @@ const Intro = () => {
 
       {/* Prodotti */}
       <div className='px-4 md:px-20 lg:px-40'>
-        <h1 className='lgmt-10 font-bold text-center text-4xl text-transparent bg-clip-text bg-gradient-to-r from-yellow-500 to-yellow-800'>
+        <h1 className='lgmt-10 pt-5 font-bold text-center text-4xl text-transparent bg-clip-text bg-gradient-to-r from-yellow-500 to-yellow-800'>
           Prodotti
         </h1>
 
