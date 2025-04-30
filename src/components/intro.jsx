@@ -69,9 +69,7 @@ const Intro = () => {
               Profuma gli ambienti con stile e sostenibilità. I nostri diffusori, con base in legno poroso e corda riciclata, uniscono design e funzionalità.
               Zero sprechi, massimo impatto.
             </p>
-            <button className='mt-4 mr-15.5 ml-15.5 px-8 py-3 bg-white border-2 border-yellow-600 font-semibold rounded-lg hover:bg-gradient-to-r from-yellow-700 to-yellow-800 hover:text-white transition duration-500 lg:w-64'>
-              Acquista
-            </button>
+
           </div>
         </div>
 
@@ -85,9 +83,7 @@ const Intro = () => {
               Rinnova il profumo, non il contenitore. Le nostre ricariche ecologiche ti permettono di prolungare la vita del tuo diffusore con stile e responsabilità.
               Meno sprechi, più essenza.
             </p>
-            <button className='mr-6.5 ml-6.5 mt-4 px-8 py-3 bg-white border-2 border-yellow-600 font-semibold rounded-lg hover:bg-gradient-to-r from-yellow-700 to-yellow-800 hover:text-white transition duration-500 lg:w-64'>
-              Acquista
-            </button>
+
           </div>
         </div>
       </div>
