@@ -61,7 +61,7 @@ const Intro = () => {
 
         {/* Prodotto 1 */}
         <div className='mt-10 md:flex md:gap-10  align-middle items-center'>
-          <img src="product.png" alt="Diffusore" className='w-64 mx-auto md:mx-0 rounded-2xl lg:rounded lg:w-128' />
+          <img src="/home/kiki/Downloads/Qwizd/product.png" alt="Diffusore" className='w-64 mx-auto md:mx-0 rounded-2xl lg:rounded lg:w-128' />
           <div className='mt-6 md:mt-0 '>
             <h2 className='font-bold text-xl mr-15.5 ml-15.5 text-transparent bg-clip-text bg-gradient-to-r from-yellow-500 to-yellow-800 lg:text-3xl'>Diffusore</h2>
             <h3 className='mt-1 mr-15.5 ml-15.5 text-lg lg:text-xl'>Descrizione prodotto:</h3>
