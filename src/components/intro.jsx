@@ -61,7 +61,7 @@ const Intro = () => {
 
         {/* Prodotto 1 */}
         <div className='mt-10 md:flex md:gap-10  align-middle items-center'>
-          <img src="/home/kiki/Downloads/Qwizd/product.png" alt="Diffusore" className='w-64 mx-auto md:mx-0 rounded-2xl lg:rounded lg:w-128' />
+          <img src="/product.png" alt="Diffusore" className='w-64 mx-auto md:mx-0 rounded-2xl lg:rounded lg:w-128' />
           <div className='mt-6 md:mt-0 '>
             <h2 className='font-bold text-xl mr-15.5 ml-15.5 text-transparent bg-clip-text bg-gradient-to-r from-yellow-500 to-yellow-800 lg:text-3xl'>Diffusore</h2>
             <h3 className='mt-1 mr-15.5 ml-15.5 text-lg lg:text-xl'>Descrizione prodotto:</h3>
@@ -75,7 +75,7 @@ const Intro = () => {
 
         {/* Prodotto 2 */}
         <div className='mt-20 md:flex md:flex-row-reverse md:gap-10 items-center bg-slate-100 p-6 rounded-2xl'>
-          <img src="charge.png" alt="Ricariche" className='w-64 mx-auto md:mx-0 rounded-2xl lg:rounded lg:w-128' />
+          <img src="/charge.png" alt="Ricariche" className='w-64 mx-auto md:mx-0 rounded-2xl lg:rounded lg:w-128' />
           <div className='mt-6 md:mt-0 '>
             <h2 className='mr-6.5 ml-6.5 font-bold text-xl text-transparent bg-clip-text bg-gradient-to-r from-yellow-500 to-yellow-800 lg:text-3xl'>Ricariche</h2>
             <h3 className='mr-6.5 ml-6.5 mt-1 text-lg lg:text-xl'>Descrizione prodotto:</h3>
