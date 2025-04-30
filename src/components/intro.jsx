@@ -14,7 +14,7 @@ const Intro = () => {
           Dì addio alla monotonia delle solite boccette e scopri un nuovo modo di profumare e arredare gli spazi.
         </p>
         <button className='mt-6 p-4 px-6 bg-white border-2 border-yellow-600 font-semibold rounded-lg hover:bg-gradient-to-r from-yellow-700 to-yellow-800 hover:text-white transition duration-500'>
-          Scopri prodotto
+          <a href="#product">Scopri prodotto</a>
         </button>
       </div>
 
@@ -60,7 +60,7 @@ const Intro = () => {
         </h1>
 
         {/* Prodotto 1 */}
-        <div className='mt-10 md:flex md:gap-10  align-middle items-center'>
+        <div id="product" className='mt-10 md:flex md:gap-10  align-middle items-center'>
           <img src="/product.png" alt="Diffusore" className='w-64 mx-auto md:mx-0 rounded-2xl lg:rounded lg:w-128' />
           <div className='mt-6 md:mt-0 '>
             <h2 className='font-bold text-xl mr-15.5 ml-15.5 text-transparent bg-clip-text bg-gradient-to-r from-yellow-500 to-yellow-800 lg:text-3xl'>Diffusore</h2>
